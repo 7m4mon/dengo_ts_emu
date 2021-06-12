@@ -1,5 +1,7 @@
 # 電車でGO!コントローラでTSマスコンをエミュレートしてBVEで遊ぶ。
 
+<img src="https://github.com/7m4mon/dengo_ts_emu/blob/main/dengo_ts_emu_g.jpg" alt="" title="">
+
 Bve trainsim というPCで遊べる電車でGO的な鉄道運転シミュレーターがあるのですが、キーボード操作では風情がありませんよね。  
 いうことで、プレイステーション版 電車でGOのコントローラを入手し、BVEで使ってみることにしました。  
 
