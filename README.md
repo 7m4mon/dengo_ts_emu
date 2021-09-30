@@ -16,3 +16,8 @@ https://mackoy.exblog.jp/20477692/
 この2つを組み合わせて、電GOコントローラーの信号をArduinoで読み取り、TSマスコンの動作をエミュレートする手法を取ることにしました。
 
 レバーサはセレクトボタン押下で「中立→前進→中立→後退」と遷移するようにしてあります。
+
+制作例
+<img src="https://github.com/7m4mon/dengo_ts_emu/blob/main/dengo_ts_1.jpg" alt="" title="">  
+<img src="https://github.com/7m4mon/dengo_ts_emu/blob/main/dengo_ts_2.jpg" alt="" title="">  
+
